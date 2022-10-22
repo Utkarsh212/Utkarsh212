@@ -1,41 +1,70 @@
-### Hi there, I'm Utkarsh Pancholi 👋
-<!--
-**Utkarsh212/Utkarsh212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at The LNM Institute of Information Technology.\
-🌱 &nbsp;I'm on track for learning more about Web development, Frontend Development and Deep Learning.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can ping me an email at utka21200@gmail.com\
-<!--📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+<!-- ----------- HEAD SECTION START ------------ -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Utkarsh+Pancholi;Frontend+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;"/>
+  </p>
 
 
+<hr>
 
-### 🛠 &nbsp;Tech Stack
-![HTML5]
-![CSS3]
-![Javascript]
-![TailwindCSS]
-![React.js]
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=orange)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=FFCA28)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&logoColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;-->
+<!-- ----------- HEAD SECTION END ------------ -->
+
+<!-- ----------- CONTENT SECTION START ------------ -->
+- 🔭 I’m currently working on [CSE Labs](http://cselabs.herokuapp.com/)
+
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://utkarshpancholi.vercel.app/)
+
+- 💬 Ask me about **Full Front-End Web Development**
+
+- 📄 Know about my experiences from my [Resume]()
+
+- 📫 How to reach me <a href="mailto:utka21200@gmail.com" style="color: #1f6feb; text-decoration: none;">utka21200@gmail.com</a>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=Utkarsh212&style=flat-square&color=1f6feb">
+<hr>
+
+<!-- ----------- CONTENT SECTION END ------------ -->
+
+<!-- ----------- STATS SECTION START ------------ -->
+<div align="center" style="display:flex"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh212&show_icons=true&locale=en" alt="utkarsh212" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh212&" alt="utkarsh212" />
+</div>
+
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Utkarsh212&theme=radical&bg_color=00000000&point=00000000&line=1f6feb&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=1f6feb&area=true&area_color=1f6feb">
+</div>
+
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh212" alt="utkarsh212" /></a> </p>
+<!-- ----------- STATS SECTION END ------------ -->
+
+<!-- ----------- TECH STACK SECTION START ------------ -->
+
+<h2 align="center">Tech Stack</h2>
+
+| <span>Domain<span>                             |<span>Technologies<span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <span style="color:#1f6feb;font-family: Poppins">Development</span> | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/nodejs-77b65d.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-eeeeee.svg?style=for-the-badge&logo=express&logoColor=black) ![MongoDB](https://img.shields.io/badge/mongodb-62ac52.svg?style=for-the-badge&logo=mongodb&logoColor=white)      ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  |
+| <span style="color:#1f6feb">Languages</span>   | ![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| <span style="color:#1f6feb" >Tools</span>       | ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| <span style="color:#1f6feb">UI/UX</span>       | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-470137?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=#FF61F6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+<!-- ----------- SOCIAL SECTION START ------------ -->
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/utkarsh-pancholi-7895261a9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://discordapp.com/users/piUP#3066/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
+<a href="https://dev.to/utkarsh212" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+<a href="https://stackoverflow.com/users/15195716/uhpi" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Dev.to" /></a>
+<br>
+<br>
+</p>

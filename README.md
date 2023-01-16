@@ -34,12 +34,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh212&" alt="utkarsh212" />
 </div>
 
-<div align="center">
-[![An image of @piup's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piup)](https://holopin.io/@piup)
-</div>
-
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh212" alt="utkarsh212" /></a> </p>
+
+[![@utkarsh212's Holopin board](https://holopin.me/piup)](https://holopin.io/@piup)
 <!-- ----------- STATS SECTION END ------------ -->
 
 <!-- ----------- TECH STACK SECTION START ------------ -->

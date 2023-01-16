@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Utkarsh212&theme=radical&bg_color=00000000&point=00000000&line=1f6feb&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=1f6feb&area=true&area_color=1f6feb">
+[![An image of @piup's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piup)](https://holopin.io/@piup)
 </div>
 
 <br/>

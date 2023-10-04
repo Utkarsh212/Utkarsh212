@@ -11,7 +11,7 @@
 <!-- ----------- CONTENT SECTION START ------------ -->
 - 🔭 I’m currently working on [CSE Labs](http://cselabs.herokuapp.com/)
 
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+- 🌱 I’m currently learning [Three.js](https://threejs.org/)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 

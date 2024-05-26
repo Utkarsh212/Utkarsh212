@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION START ------------ -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Utkarsh+Pancholi;Frontend+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;"/>
+<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Utkarsh+Pancholi;Frontend+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;"/>
   </p>
 
 
@@ -9,15 +9,11 @@
 <!-- ----------- HEAD SECTION END ------------ -->
 
 <!-- ----------- CONTENT SECTION START ------------ -->
-- 🔭 I’m currently working on [CSE Labs](http://cselabs.herokuapp.com/)
+- 🔭 I’m currently working on [react-pdftotext](https://www.npmjs.com/package/react-pdftotext)
 
-- 🌱 I’m currently learning [Three.js](https://threejs.org/)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://utkarshpancholi.vercel.app/)
-
-- 💬 Ask me about **Full Front-End Web Development**
+- 💬 Ask me about **Frontend Web Development**
 
 - 📄 Know about my experiences from my [Resume]()
 
@@ -37,7 +33,7 @@
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh212" alt="utkarsh212" /></a> </p>
 
-[![@utkarsh212's Holopin board](https://holopin.me/piup)](https://holopin.io/@piup)
+<!-- [![@utkarsh212's Holopin board](https://holopin.me/piup)](https://holopin.io/@piup) -->
 <!-- ----------- STATS SECTION END ------------ -->
 
 <!-- ----------- TECH STACK SECTION START ------------ -->

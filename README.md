@@ -1,64 +1,64 @@
-<!-- ----------- HEAD SECTION START ------------ -->
+## Hi there, I'm Utkarsh Pancholi, the Developer of [`react-pdftotext`](https://www.npmjs.com/package/react-pdftotext) 👋🏻
+
+### About Me:
+> I’m a passionate frontend developer `committed to crafting` impactful solutions that contribute to the betterment of our community. My expertise spans a variety of technologies, including TypeScript, JavaScript, React, Next.js, HTML, CSS, YAML, and Markdown. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/utkarsh-pancholi-7895261a9/) or reach out via email at [utka21200@gmail.com](mailto:utka21200@gmail.com).
+<br/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Utkarsh+Pancholi;Frontend+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;"/>
-  </p>
+  <img alt src="https://komarev.com/ghpvc/?username=Utkarsh212&style=flat&color=6B6EF3"> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Utkarsh212?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/Utkarsh212?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/Utkarsh212"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
 
+### My GitHub Stats:
+[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarsh212&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Utkarsh212#detailed)
 
-<hr>
-
-<!-- ----------- HEAD SECTION END ------------ -->
-
-<!-- ----------- CONTENT SECTION START ------------ -->
-- 🔭 I’m currently working on [react-pdftotext](https://www.npmjs.com/package/react-pdftotext)
-
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
-
-- 💬 Ask me about **Frontend Web Development**
-
-- 📄 Know about my experiences from my [Resume]()
-
-- 📫 How to reach me <a href="mailto:utka21200@gmail.com" style="color: #1f6feb; text-decoration: none;">utka21200@gmail.com</a>
-
-<img align="right" src="https://komarev.com/ghpvc/?username=Utkarsh212&style=flat-square&color=1f6feb">
-<hr>
-
-<!-- ----------- CONTENT SECTION END ------------ -->
-
-<!-- ----------- STATS SECTION START ------------ -->
-<div align="center" style="display:flex"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh212&show_icons=true&locale=en" alt="utkarsh212" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh212&" alt="utkarsh212" />
+#### Contributions
+<div align="left">
+	<a href="https://github.com/Utkarsh212/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh212&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
 
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh212" alt="utkarsh212" /></a> </p>
+#### Trophies
+[![layout](https://github-profile-trophy.vercel.app/?username=Utkarsh212&column=3&margin-w=25&margin-h=20)](https://github.com/Utkarsh212#trophies)
 
-<!-- [![@utkarsh212's Holopin board](https://holopin.me/piup)](https://holopin.io/@piup) -->
-<!-- ----------- STATS SECTION END ------------ -->
+### My Published Packages:
+#### 1. `react-pdftotext`
 
-<!-- ----------- TECH STACK SECTION START ------------ -->
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Utkarsh212&repo=react-pdftotext&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Utkarsh212/diff-ymd-package.git)
 
-<h2 align="center">Tech Stack</h2>
-
-| <span>Domain<span>                             |<span>Technologies<span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <span style="color:#1f6feb;font-family: Poppins">Development</span> | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/nodejs-77b65d.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-eeeeee.svg?style=for-the-badge&logo=express&logoColor=black) ![MongoDB](https://img.shields.io/badge/mongodb-62ac52.svg?style=for-the-badge&logo=mongodb&logoColor=white)      ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  |
-| <span style="color:#1f6feb">Languages</span>   | ![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| <span style="color:#1f6feb" >Tools</span>       | ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| <span style="color:#1f6feb">UI/UX</span>       | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF7D00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+**`react-pdftotext:`** Hoping you to explore `react-pdftotext` the light-weight memory-safe client library for extracting plain text from pdf files. See `react-pdftotext` on [`npm registry`](https://www.npmjs.com/package/react-pdftotext).
 
 
-<!-- ----------- TECH STACK SECTION END------------ -->
+### Tools and Technologies I Use:
 
-<!-- ----------- SOCIAL SECTION START ------------ -->
+#### `Programming Languages:`
+[![Programming Languages](https://skillicons.dev/icons?i=javascript,typescript,py,c,latex,matlab&theme=light)](https://skillicons.dev)
 
-<h2 align="center">Connect with me</h2>
+#### `Frontend:`
+[![Fronted](https://skillicons.dev/icons?i=react,redux,next,threejs,html,css,tailwind,materialui,bootstrap,jest&theme=light)](https://skillicons.dev)
 
-<p align="center">
+#### `Backend:`
+[![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
+
+#### `Databases:`
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
+
+#### `Version Control:`
+[![Version Control](https://skillicons.dev/icons?i=git,github,githubactions,azure&theme=light)](https://skillicons.dev)
+
+#### `Other Tools and Technologies:`
+[![Others](https://skillicons.dev/icons?i=vite,vscode,npm,md,webpack,babel,figma&theme=light)](https://skillicons.dev)
+
+### Connect with me:
+
+<p align="left">
 <a href="https://www.linkedin.com/in/utkarsh-pancholi-7895261a9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://discordapp.com/users/piUP#3066/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
 <a href="https://dev.to/utkarsh212" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 <a href="https://stackoverflow.com/users/15195716/uhpi" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Dev.to" /></a>
-<br>
-<br>
 </p>
+
+### Support:
+If you find my works interesting or useful, hoping you to consider supporting me through sponsorship and contributions. Your supports go a long way in fueling the Open Source contributions, and future projects.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Me-green)](https://github.com/sponsors/Utkarsh212)

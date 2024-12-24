@@ -10,6 +10,7 @@
   <a href="https://github.com/sponsors/Utkarsh212"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
+<!-- 
 ### My GitHub Stats:
 [![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarsh212&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Utkarsh212#detailed)
 
@@ -20,6 +21,7 @@
 
 #### Trophies
 [![layout](https://github-profile-trophy.vercel.app/?username=Utkarsh212&column=3&margin-w=25&margin-h=20)](https://github.com/Utkarsh212#trophies)
+-->
 
 ### My Published Packages:
 #### 1. `react-pdftotext`

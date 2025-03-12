@@ -26,7 +26,7 @@
 ### My Published Packages:
 #### 1. `react-pdftotext`
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Utkarsh212&repo=react-pdftotext&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Utkarsh212/diff-ymd-package.git)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Utkarsh212&repo=react-pdftotext&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Utkarsh212/react-pdftotext.git)
 
 **`react-pdftotext:`** Hoping you to explore `react-pdftotext` the light-weight memory-safe client library for extracting plain text from pdf files. See `react-pdftotext` on [`npm registry`](https://www.npmjs.com/package/react-pdftotext).
 

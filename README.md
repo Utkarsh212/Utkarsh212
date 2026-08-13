@@ -1,7 +1,7 @@
-## Hi, I am Utkarsh, the maintainer of [`react-pdftotext`](https://www.npmjs.com/package/react-pdftotext) 👋🏻
+## Hi, I am Utkarsh, maintainer of [`react-pdftotext`](https://www.npmjs.com/package/react-pdftotext) 👋🏻
 
 ### About Me
-> I am a passionate frontend developer committed to crafting impactful solutions for the community. My toolkit spans TypeScript, JavaScript, React, Next.js, Three.js, HTML, CSS, YAML, and Markdown. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/utkarsh-pancholi-7895261a9/) or reach out via email at [utka21200@gmail.com](mailto:utka21200@gmail.com).
+> I am a 🍕 foodie full stack engineer. My toolkit spans TypeScript, JavaScript, React, Next.js, Node.js, Nest.js, Microservices, HTML, CSS. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/utkarsh-pancholi-7895261a9/) or reach out via email at [utka21200@gmail.com](mailto:utka21200@gmail.com).
 
 <br/>
 <p align="center">
